@@ -365,3 +365,4 @@ FodyWeavers.xsd
 # Others
 .env
 appsettings.Development.json
+appsettings
